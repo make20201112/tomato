@@ -1,2 +1,3 @@
 # tomato
-tomato on github 
+Deprecated, please use tX-manager at
+
